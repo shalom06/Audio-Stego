@@ -18,7 +18,10 @@ pip3 install -r requirements.txt
 ```
 
 ## How to Run
-Run app.py
+
+```bash
+python app.py
+``` 
 in /AudioStegnographyAlgo/app.py 
 
 
