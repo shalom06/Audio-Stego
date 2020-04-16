@@ -2,7 +2,7 @@
 It is a application created using tkinter in python .
 It allows users to slect two audio algorithms LSB and Phase coding.
 
-![picture](img/ui.png)
+![picture](ui.png)
 
 
 
