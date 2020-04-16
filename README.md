@@ -14,7 +14,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip3 install -r requirements.txt
 ```
 
-#How to Run
+## How to Run
 Run app.py
 in /AudioStegnographyAlgo/app.py 
 
