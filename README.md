@@ -24,7 +24,7 @@ python app.py
 ``` 
 
 ## Youtube 
-https://www.youtube.com/watch?v=hkWj8m_6V6I&feature=youtu.be
+Link: https://www.youtube.com/watch?v=hkWj8m_6V6I&feature=youtu.be
 
 
 ## Contributing
