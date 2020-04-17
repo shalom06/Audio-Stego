@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 ```bash
 python app.py
 ``` 
-in /AudioStegnographyAlgo/app.py 
+
 
 
 
